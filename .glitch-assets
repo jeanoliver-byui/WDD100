@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+
+{"name":"image.png","date":"2018-05-30T18:22:59.936Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":14529,"imageWidth":432,"imageHeight":84,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":65,"dominantColor":null,"uuid":"ZpAYsFcc0SdugPRE"}
+{"name":"wireframe-boxes-labels.jpg","date":"2018-05-30T19:56:15.064Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fwireframe-boxes-labels.jpg","type":"image/jpeg","size":192305,"imageWidth":900,"imageHeight":994,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fwireframe-boxes-labels.jpg","thumbnailWidth":299,"thumbnailHeight":330,"dominantColor":"rgb(252,251,251)","uuid":"xZqdCt7R8CkTlRs1"}
+{"uuid":"ZpAYsFcc0SdugPRE","deleted":true}
+{"name":"jean_padrao.jpeg","date":"2018-06-10T00:03:23.887Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fjean_padrao.jpeg","type":"image/jpeg","size":397601,"imageWidth":1377,"imageHeight":1302,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fjean_padrao.jpeg","thumbnailWidth":330,"thumbnailHeight":313,"dominantColor":"rgb(160,178,190)","uuid":"XfZ8FbyolWbGKnlS"}
+{"name":"dryoarlogo copy_preview (1).png","date":"2018-06-12T03:38:26.983Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fdryoarlogo%20copy_preview%20(1).png","type":"image/png","size":37366,"imageWidth":250,"imageHeight":270,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fdryoarlogo%20copy_preview%20(1).png","thumbnailWidth":250,"thumbnailHeight":270,"dominantColor":null,"uuid":"pcrcXTDCoUZAfAe5"}
+{"name":"idaho-main-salmon-rafting-045.jpg","date":"2018-06-12T03:47:52.081Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-045.jpg","type":"image/jpeg","size":167424,"imageWidth":1280,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-045.jpg","thumbnailWidth":330,"thumbnailHeight":129,"dominantColor":"rgb(91,97,41)","uuid":"gevcIBB6mPHOZK5v"}
+{"name":"banner3.jpg","date":"2018-06-12T03:53:30.672Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fbanner3.jpg","type":"image/jpeg","size":137536,"imageWidth":1351,"imageHeight":461,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fbanner3.jpg","thumbnailWidth":330,"thumbnailHeight":113,"dominantColor":"rgb(17,28,28)","uuid":"OXcU2clmRzvz7BEr"}
+{"uuid":"gevcIBB6mPHOZK5v","deleted":true}
+{"name":"idaho-main-salmon-rafting-045.jpg","date":"2018-06-12T03:59:08.699Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-045.jpg","type":"image/jpeg","size":198457,"imageWidth":1400,"imageHeight":500,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-045.jpg","thumbnailWidth":330,"thumbnailHeight":118,"dominantColor":"rgb(78,83,32)","uuid":"YeDCZa5lDS2yrR2B"}
+{"name":"idaho-main-salmon-rafting-032.jpg","date":"2018-06-12T04:04:17.075Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-032.jpg","type":"image/jpeg","size":289566,"imageWidth":1500,"imageHeight":1000,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-032.jpg","thumbnailWidth":330,"thumbnailHeight":220,"dominantColor":"rgb(125,181,235)","uuid":"lqqtuzOQb1UIS1sr"}
+{"name":"idaho-main-salmon-rafting-035.jpg","date":"2018-06-12T04:11:04.527Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-035.jpg","type":"image/jpeg","size":329622,"imageWidth":1500,"imageHeight":1000,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-035.jpg","thumbnailWidth":330,"thumbnailHeight":220,"dominantColor":"rgb(26,31,7)","uuid":"HWY5GBiePkVlFznu"}
+{"name":"idaho-main-salmon-rafting-010.jpg","date":"2018-06-12T04:16:55.200Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-010.jpg","type":"image/jpeg","size":274801,"imageWidth":1500,"imageHeight":1000,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-010.jpg","thumbnailWidth":330,"thumbnailHeight":220,"dominantColor":"rgb(25,22,17)","uuid":"VF1tgjyqxK4KmN6C"}
+{"uuid":"lqqtuzOQb1UIS1sr","deleted":true}
+{"name":"idaho-main-salmon-rafting-480-320.jpg","date":"2018-06-12T04:46:39.742Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-480-320.jpg","type":"image/jpeg","size":28905,"imageWidth":480,"imageHeight":320,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-480-320.jpg","thumbnailWidth":330,"thumbnailHeight":220,"dominantColor":"rgb(125,180,235)","uuid":"7BoGVkq5knBP4iwV"}
+{"uuid":"VF1tgjyqxK4KmN6C","deleted":true}
+{"name":"idaho-main-salmon-rafting-010-640-427.jpg","date":"2018-06-12T04:51:19.601Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-010-640-427.jpg","type":"image/jpeg","size":71963,"imageWidth":640,"imageHeight":427,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-010-640-427.jpg","thumbnailWidth":330,"thumbnailHeight":221,"dominantColor":"rgb(24,20,15)","uuid":"U3ZbAEk2snjoliwb"}
+{"uuid":"7BoGVkq5knBP4iwV","deleted":true}
+{"name":"idaho-main-salmon-rafting-032-640-427.jpg","date":"2018-06-12T04:54:00.611Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-032-640-427.jpg","type":"image/jpeg","size":47540,"imageWidth":640,"imageHeight":427,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-032-640-427.jpg","thumbnailWidth":330,"thumbnailHeight":221,"dominantColor":"rgb(125,181,235)","uuid":"HHXjnCxWqBPLudQy"}
+{"uuid":"YeDCZa5lDS2yrR2B","deleted":true}
+{"name":"river-rafting-1280.jpg","date":"2018-06-12T05:03:40.237Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Friver-rafting-1280.jpg","type":"image/jpeg","size":148145,"imageWidth":1280,"imageHeight":457,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Friver-rafting-1280.jpg","thumbnailWidth":330,"thumbnailHeight":118,"dominantColor":"rgb(66,70,23)","uuid":"INPNpbKZtxenmPmF"}
+{"uuid":"HWY5GBiePkVlFznu","deleted":true}
+{"name":"idaho-main-salmon-rafting-035-640-427.jpg","date":"2018-06-12T05:28:00.494Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-035-640-427.jpg","type":"image/jpeg","size":91585,"imageWidth":640,"imageHeight":427,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-035-640-427.jpg","thumbnailWidth":330,"thumbnailHeight":221,"dominantColor":"rgb(22,28,6)","uuid":"HrcCaQHTANVt9fjx"}
+{"uuid":"OXcU2clmRzvz7BEr","deleted":true}
+{"uuid":"HrcCaQHTANVt9fjx","deleted":true}
+{"uuid":"HHXjnCxWqBPLudQy","deleted":true}
+{"uuid":"INPNpbKZtxenmPmF","deleted":true}
+{"name":"idaho-main-salmon-rafting-045-940-250.jpg","date":"2018-06-14T03:24:03.721Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-045-940-250.jpg","type":"image/jpeg","size":75786,"imageWidth":940,"imageHeight":250,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-045-940-250.jpg","thumbnailWidth":330,"thumbnailHeight":88,"dominantColor":"rgb(82,87,38)","uuid":"F2XAHYUcEChwiijU"}
+{"name":"idaho-main-salmon-rafting-035-420-315.jpg","date":"2018-06-14T03:24:16.976Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-035-420-315.jpg","type":"image/jpeg","size":44456,"imageWidth":420,"imageHeight":315,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-035-420-315.jpg","thumbnailWidth":330,"thumbnailHeight":248,"dominantColor":"rgb(22,28,6)","uuid":"rupcEpp3FmbEXmyU"}
+{"name":"idaho-main-salmon-rafting-032-420-315.jpg","date":"2018-06-14T03:24:26.685Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-032-420-315.jpg","type":"image/jpeg","size":24258,"imageWidth":420,"imageHeight":315,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-032-420-315.jpg","thumbnailWidth":330,"thumbnailHeight":248,"dominantColor":"rgb(126,181,235)","uuid":"Ypo8al6x5JpYOK5e"}
+{"uuid":"F2XAHYUcEChwiijU","deleted":true}
+{"name":"idaho-main-salmon-rafting-045-940-250.jpg","date":"2018-06-16T03:48:42.111Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fidaho-main-salmon-rafting-045-940-250.jpg","type":"image/jpeg","size":75786,"imageWidth":940,"imageHeight":250,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Fidaho-main-salmon-rafting-045-940-250.jpg","thumbnailWidth":330,"thumbnailHeight":88,"dominantColor":"rgb(82,87,38)","uuid":"hT3vO1o5qU9dRxNp"}
+{"name":"river-rafting-1280.jpg","date":"2018-06-16T03:49:10.212Z","url":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Friver-rafting-1280.jpg","type":"image/jpeg","size":148145,"imageWidth":1280,"imageHeight":457,"thumbnail":"https://cdn.glitch.com/016b935e-32e0-49ce-9045-9d8bfa9a6d7f%2Fthumbnails%2Friver-rafting-1280.jpg","thumbnailWidth":330,"thumbnailHeight":118,"dominantColor":"rgb(67,71,24)","uuid":"MdOErrAmp6eDN7V7"}
+</html>
