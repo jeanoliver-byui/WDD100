@@ -1,3 +1,45 @@
-h1 {
-  color: fuchsia;
+#content {
+    width: 960px;
+    margin: 0 auto;
+    background-color: rgba(217, 215, 216,0.5);
+}
+
+nav {
+    background-color: rgb(193, 41, 46);
+}
+
+nav a {
+    color: rgb(253, 255, 252);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: rgb(253, 255, 252);
+}
+
+.sec1 {
+    background-color: rgb(241, 211, 2);
+}
+
+.sec2 {
+    background-color: rgba(17, 75, 95, 0.9);
+}
+
+.sec3 {
+    background-color: rgba(0, 130, 153, 0.5);
+    text-align: center;
+    padding: 10px;
+}
+
+.hspec,
+.pspec {
+    color: rgb(253, 255, 252);
+}
+
+#info {
+    color: rgb(17, 75, 95);
 }
