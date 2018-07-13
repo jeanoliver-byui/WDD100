@@ -25,6 +25,7 @@ footer {
     width: 960px;
     margin: 0 auto;
     margin-top:60px;
+    box-shadow: 0px -16px 25px 5px gray;
  }
 
 #banner-div{
@@ -49,7 +50,8 @@ nav {
 }
 
 nav a {
-    color: #fce172;
+    color: #fde792;
+    width:124px;
     padding: 0em 1em 0.7em 1em;
 }
 
@@ -59,6 +61,7 @@ nav li {
     line-height: 1.8em;
     list-style-type: none;
     flex-wrap: wrap;
+   
 }
 
 nav ul {
@@ -106,7 +109,7 @@ section h2{
 
 .hspec-1,
 .pspec-1 {
-  color: #fce172;
+  color: #fde792;
 }
 
 #info {
@@ -199,4 +202,10 @@ nav a:hover {
     transform:translateY(3px);
   }
  
+}
+
+#underconstruction {
+      position: absolute;
+      top:25%;
+      left:25%;
 }
