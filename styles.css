@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughters|Open+Sans+Condensed:300|Raleway|Rock+Salt|Calligraffitti');
 
+html {
+    background: #fcfcfc;
+}
+
 .sec1,
 .sec2,
+.sec3,
 footer {
     display: flex;
     flex-flow: row wrap;
@@ -9,14 +14,16 @@ footer {
     align-items: center;
     padding: 20px;
 }
+
 footer {
-   border-radius: 0 0 12px 12px;
-   background-color: #333333;
-   padding-left: 30px;
+    border-radius: 0 0 12px 12px;
+    background-color: #333333;
+    padding-left: 30px;
 }
+
 #logo {
     position: relative;
-    width:180px;
+    width: 180px;
     top: -50px;
     left: 30px;
 }
@@ -24,34 +31,36 @@ footer {
 #content {
     width: 960px;
     margin: 0 auto;
-    margin-top:60px;
+    margin-top: 60px;
     box-shadow: 0px -16px 25px 5px gray;
- }
+}
 
-#banner-div{
-   height:347px;
+#banner-div {
+    height: 347px;
 }
 
 section p {
-  padding: 10px;
-  font-size:1.4em;
-  text-indent: 1em;
-  line-height: 1.5em;
-  text-align:justify;
-  color: #FFF8F0;
+    font-family: 'Daughters', cursive;
+    padding: 10px;
+    font-size: 1.2em;
+    text-indent: 1em;
+    line-height: 1.5em;
+    text-align: justify;
+    color: #FFF8F0;
 }
 
 nav {
-    background-color: #92140C; /*#e00220; #c21914;*/
+    background-color: #92140C;
+    /*#e00220; #c21914;*/
     padding: 1em;
     height: 2.6em;
     margin-top: -170px;
-    border-radius:12px 12px 0 0;
+    border-radius: 12px 12px 0 0;
 }
 
 nav a {
     color: #fde792;
-    width:124px;
+    width: 124px;
     padding: 0em 1em 0.7em 1em;
 }
 
@@ -61,7 +70,7 @@ nav li {
     line-height: 1.8em;
     list-style-type: none;
     flex-wrap: wrap;
-   
+
 }
 
 nav ul {
@@ -83,13 +92,13 @@ h6 {
     line-height: 1em;
 }
 
-section h2{
-   font-size: 1.3em;
-   text-align:center;
+section h2 {
+    font-size: 1.2em;
+    text-align: center;
 }
 
 .sec1 {
-    background-color: #92140C; /*#f1d302;*/
+    background-color: #92140C;
 }
 
 .sec2 {
@@ -97,8 +106,7 @@ section h2{
 }
 
 .sec3 {
-    background-color: #92140C; /*#f1d302;*/
-    text-align: center;
+    background-color: #92140C;
     padding: 10px 200px 10px 200px;
 }
 
@@ -109,7 +117,7 @@ section h2{
 
 .hspec-1,
 .pspec-1 {
-  color: #fde792;
+    color: #fde792;
 }
 
 #info {
@@ -122,90 +130,119 @@ section h2{
     width: 48%;
 }
 
+.leftcol {
+    padding-right: 5px;
+}
+
+.rightcol {
+    padding-left: 5px;
+}
+
 .socialmedia {
     float: right;
     padding: 10px;
 }
-/*
+
 img {
     max-width: 100%;
-}*/
+}
+
 section img {
-   border-radius: 5px;  
-   /*border: 2px solid white;*/
-   padding:1px;
-   border:1px solid #021a40;
-  background-color: white;
+    display: inherit;
+    border-radius: 5px;
+    padding: 1px;
+    border: 1px solid #021a40;
+    background-color: white;
+    align-items: center;
 }
+
 #banner-img {
-  position:relative;
-   z-index:-1;
-   animation: slideIn 2s ease-out 0s 1;
+    position: relative;
+    z-index: -1;
+    animation: slideIn 2s ease-out 0s 1;
 }
+
 .icon {
-   width: 50px;
-   border-radius: 5px;
+    width: 50px;
+    border-radius: 5px;
 }
-.sec3 h2 {
+
+/*.sec3 h2 {
    animation: shake 3s ease-in 3s infinite alternate;
-}
+}*/
+
 .sec3 a {
-   text-decoration: none;
+    text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #fcd740; 
+    background-color: #fcd740;
     color: #92140C;
     border-radius: 5px;
     box-shadow: 5px 5px 5px #1d1f20;
     transition: all 0.4s ease-out;
 }
 
-.icon:hover{
+.icon:hover {
     margin-top: -10px;
     transition: 0.2s ease-in;
 }
 
 @keyframes slideIn {
-  from {
-    opacity: 0.2;
-  }
+    from {
+        opacity: 0.2;
+    }
 
-  to {
-    opacity: 1;
-  }
+    to {
+        opacity: 1;
+    }
 }
 
-@keyframes shake{
-   0% {
-    transform:translateY(0px);
-  }
-  88% {
-    transform:translateY(0px);
-  }
-  90% {
-    transform:translateY(-3px);
-  }
-   92% {
-    transform:translateY(3px);
-  }
-   94% {
-    transform:translateY(-3px);
-  }
-   96% {
-    transform:translateY(3px);
-  }
-   98% {
-    transform:translateY(-3px);
-  }
-  100% {
-    transform:translateY(3px);
-  }
- 
+@keyframes shake {
+    0% {
+        transform: translateY(0px);
+    }
+    88% {
+        transform: translateY(0px);
+    }
+    90% {
+        transform: translateY(-3px);
+    }
+    92% {
+        transform: translateY(3px);
+    }
+    94% {
+        transform: translateY(-3px);
+    }
+    96% {
+        transform: translateY(3px);
+    }
+    98% {
+        transform: translateY(-3px);
+    }
+    100% {
+        transform: translateY(3px);
+    }
+
 }
 
-#underconstruction {
-      position: absolute;
-      top:25%;
-      left:25%;
+/* Here start style for river page*/
+
+/* Here start style for aboutus page*/
+
+.sec-team {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: #92140C;
+}
+
+.sec-team h2 {
+    width: 100%;
+}
+
+.guide,
+.guide-name {
+    max-width: 33%;
 }
