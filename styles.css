@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Architects+Daughters|Open+Sans+Condensed:300|Raleway|Rock+Salt|Calligraffitti');
+@import url('https://fonts.googleapis.com/css?family=Daughters|Open+Sans+Condensed:300|Rock+Salt');
 
 html {
     background: #fcfcfc;
 }
 
+body {
+   display:flex;
+   flex-wrap:wrap;
+}
+
+img {
+  max-width: 100%;
+}
+     
 .sec1,
 .sec2,
 .sec3,
@@ -44,14 +53,13 @@ section p {
     padding: 10px;
     font-size: 1.2em;
     text-indent: 1em;
-    line-height: 1.5em;
+    line-height: 1.4em;
     text-align: justify;
     color: #FFF8F0;
 }
 
 nav {
     background-color: #92140C;
-    /*#e00220; #c21914;*/
     padding: 1em;
     height: 2.6em;
     margin-top: -170px;
@@ -143,10 +151,6 @@ section h2 {
     padding: 10px;
 }
 
-img {
-    max-width: 100%;
-}
-
 section img {
     display: inherit;
     border-radius: 5px;
@@ -167,10 +171,6 @@ section img {
     border-radius: 5px;
 }
 
-/*.sec3 h2 {
-   animation: shake 3s ease-in 3s infinite alternate;
-}*/
-
 .sec3 a {
     text-decoration: none;
 }
@@ -180,7 +180,12 @@ nav a:hover {
     color: #92140C;
     border-radius: 5px;
     box-shadow: 5px 5px 5px #1d1f20;
-    transition: all 0.4s ease-out;
+    transition: all 0.4s ease;
+}
+
+nav a:active {
+   color: #fff8f0;
+   transition: 0.2s ease-out;
 }
 
 .icon:hover {
@@ -190,7 +195,7 @@ nav a:hover {
 
 @keyframes slideIn {
     from {
-        opacity: 0.2;
+        opacity: 0.4;
     }
 
     to {
@@ -198,42 +203,13 @@ nav a:hover {
     }
 }
 
-@keyframes shake {
-    0% {
-        transform: translateY(0px);
-    }
-    88% {
-        transform: translateY(0px);
-    }
-    90% {
-        transform: translateY(-3px);
-    }
-    92% {
-        transform: translateY(3px);
-    }
-    94% {
-        transform: translateY(-3px);
-    }
-    96% {
-        transform: translateY(3px);
-    }
-    98% {
-        transform: translateY(-3px);
-    }
-    100% {
-        transform: translateY(3px);
-    }
-
-}
-
-/* Here start style for river page*/
-
 /* Here start style for aboutus page*/
 
 .sec-team {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    align-items: flex-start;
     padding: 20px;
     background-color: #92140C;
 }
@@ -242,7 +218,76 @@ nav a:hover {
     width: 100%;
 }
 
-.guide,
-.guide-name {
+.sec-team p {
+    font-size: 1.2em;
+}
+
+.sec-team .hspec {
+    margin-bottom: 30px;
+}
+
+.guide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     max-width: 33%;
 }
+
+.guide-name {
+    max-width: 100%;
+    text-align: center;
+}
+
+.sec1 li {
+    font-family: 'Daughters', cursive;
+    padding: 5px;
+    font-size: 1em;
+    line-height: 1em;
+    text-align: justify;
+    color: #fde792;
+}
+
+.email,
+.phone,
+.message {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 100px;
+}
+
+#payinfo {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 0 10px 0 10px;
+}
+
+.payicon {
+    margin: 5px;
+}
+
+#contactinfo {
+    justify-content: flex-start;
+}
+
+#contactinfo img {
+    width: 65px;
+}
+
+#secinfo h2 {
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+}
+
+#secinfo img {
+    background: transparent;
+    border: none;
+}
+
+
